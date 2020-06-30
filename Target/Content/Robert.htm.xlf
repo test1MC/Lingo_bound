@@ -5,14 +5,14 @@
   MadCap:translationStatus="untranslated">
   <file
     xml:space="preserve"
-    original="NewTopic.htm"
+    original="Robert.htm"
     source-language="en-us"
     MadCap:file-filter=""
     datatype="xhtml"
     target-language="es">
     <header>
       <skl><external-file
-          href="NewTopic.htm.skl" /></skl>
+          href="Robert.htm.skl" /></skl>
       <phase-group>
         <phase
           phase-name="translation"
@@ -31,7 +31,7 @@
         name="MadCap Statistics">
         <count
           count-type="total"
-          unit="segment">3</count>
+          unit="segment">2</count>
         <count
           count-type="x-subflow"
           unit="trans-unit">0</count>
@@ -45,26 +45,15 @@
     <body><trans-unit
         id="1"
         restype="x-xml-h1"
-        phase-name="pretrans"><source>NewTopic</source><seg-source><mrk
+        phase-name="pretrans"><source>Robert</source><seg-source><mrk
             mtype="seg"
-            mid="1">NewTopic</mrk></seg-source><target
+            mid="1">Robert</mrk></seg-source><target
           state="needs-translation"><mrk
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Untranslated"
             MadCap:matchPercent="0" /></target></trans-unit><trans-unit
         id="2"
-        restype="x-xml-p"
-        phase-name="pretrans"><source>ROBERT</source><seg-source><mrk
-            mtype="seg"
-            mid="1">ROBERT</mrk></seg-source><target
-          state="needs-translation"><mrk
-            mtype="seg"
-            mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0"
-            MadCap:diff="New" /></target></trans-unit><trans-unit
-        id="3"
         restype="x-xml-p"
         phase-name="pretrans"><source>Delete this text and replace it with your own content.</source><seg-source><mrk
             mtype="seg"
