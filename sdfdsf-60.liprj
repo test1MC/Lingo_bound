@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="es" xml:lang="es" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="11" flattenSnippets="false" SelectedTarget="" SourceSourceControlBound="true" SourceSourceControlProviderType="Git" SourceSourceControlDatabase="file:///C:/Users/randonie/AppData/Local/MadCap Software/sdfdsf-60/.git/" SourceSourceControlDatabaseRoot="https://github.com/test1MC/flare_bound.git/" SourceProjectGuid="00320766-baba-47fa-a1ff-c1090f28afdc" SourceControlBound="false">
+    <ProjectFile Source="Target/Pick me for lingo.flprj" Target="Target/Pick me for lingo.flprj" />
+</LingoProject>
